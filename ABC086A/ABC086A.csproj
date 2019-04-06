@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{84DDBF92-B65C-4466-B755-2497E0759604}</ProjectGuid>
+    <ProjectGuid>{9C8E85BC-A706-44D0-9844-55A569913265}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>atocoder</RootNamespace>
-    <AssemblyName>atocoder</AssemblyName>
+    <RootNamespace>ABC086A</RootNamespace>
+    <AssemblyName>ABC086A</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("atocoder")]
+[assembly: AssemblyTitle("ABC086A")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("atocoder")]
+[assembly: AssemblyProduct("ABC086A")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // このプロジェクトが COM に公開される場合、次の GUID が typelib の ID になります
-[assembly: Guid("84ddbf92-b65c-4466-b755-2497e0759604")]
+[assembly: Guid("9c8e85bc-a706-44d0-9844-55a569913265")]
 
 // アセンブリのバージョン情報は次の 4 つの値で構成されています:
 //
